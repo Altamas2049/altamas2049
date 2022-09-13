@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"><br/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=altamas2049&label=Profile%20views&color=0e75b6&style=flat" alt="altamas2049" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=altamas2049&label=Profile%20views&color=0e75b6&style=flat" alt="altamas2049" /> </p>
 
 
 - 🔭 I’m currently working on **NOTHING**
